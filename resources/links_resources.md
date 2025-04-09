@@ -7,3 +7,4 @@ phishing detection using ML : https://www.kaggle.com/code/fadilparves/pishing-de
 phishing detection using PyTorch :https://www.kaggle.com/code/unstructuredrahul/deep-learning-pytorch-binary-classification
 
 useful : https://www.youtube.com/watch?v=YVU5wAA6Txo
+useful channel : https://www.youtube.com/@ShawhinTalebi
