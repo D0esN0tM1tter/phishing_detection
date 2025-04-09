@@ -5,3 +5,5 @@ phishing emails detection : https://www.llmforcyber.com/blog/leveraging-llm-for-
 prompt eng vs fine tuning for phishing detection : https://www.mdpi.com/2504-4990/6/1/18 
 phishing detection using ML : https://www.kaggle.com/code/fadilparves/pishing-detection-using-machine-learning
 phishing detection using PyTorch :https://www.kaggle.com/code/unstructuredrahul/deep-learning-pytorch-binary-classification
+
+useful : https://www.youtube.com/watch?v=YVU5wAA6Txo
